@@ -44,7 +44,7 @@ function App() {
       <EmbedWrapper
         // Callback function that is called, if there is an error rendering the fields.
         onErrors={(errors) => {
-          console.log(errors);
+          // console.log(errors);
         }}
         // publicKey found under API keys on your Dashboard.
         publicKey="pk_test_Jew3tnxL1oI7YVbX8sDGiNE3nzZYyvvYFIwm"
